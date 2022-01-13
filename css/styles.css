@@ -1,0 +1,33 @@
+body {background-color: #D6E5FA;}
+hr {
+    border-style: dotted none none;
+    width: 5%;
+    text-align: center;
+    color:gray;
+    border-width: 5px;
+}
+h1 {
+    color: #66BFBF;
+    font-family: "sans-serif";
+    font-style: italic;
+    font-weight:bold;
+
+
+}
+h3 {color: #66BFBF;
+}
+
+.bio-table{
+    border: 1;
+    width: 40%;
+}
+
+#profile-pic-cell{
+    width: 30%;
+}
+
+#profile-pic{
+    border-radius: 100%;
+    width: 100%;
+    height:100%;
+}
